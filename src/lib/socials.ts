@@ -14,7 +14,7 @@ export const socials = [
     {
         name: "Email",
         href: "mailto:hi@afkdev.me",
-        icon: SiMailDotRu
+        icon: SiMaildotru
     },
     {
         name: "YouTube",
