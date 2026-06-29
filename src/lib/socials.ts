@@ -1,10 +1,9 @@
 import {
     SiGithub,
     SiYoutube,
-    SiBluesky
+    SiBluesky,
+    SiMailDotRu
 } from "@icons-pack/svelte-simple-icons";
-
-import { Mail } from "@lucide/svelte";
 
 export const socials = [
     {
@@ -15,7 +14,7 @@ export const socials = [
     {
         name: "Email",
         href: "mailto:hi@afkdev.me",
-        icon: Mail
+        icon: SiMailDotRu
     },
     {
         name: "YouTube",
