@@ -2,7 +2,7 @@ import {
     SiGithub,
     SiYoutube,
     SiBluesky,
-    SiMailDotRu
+    SiMaildotru
 } from "@icons-pack/svelte-simple-icons";
 
 export const socials = [
