@@ -2,7 +2,7 @@
 	import type { Component } from "svelte";
 
 	interface Props {
-		icon: Component;
+		icon: any;
 		name: string;
 		href: string;
 	}
