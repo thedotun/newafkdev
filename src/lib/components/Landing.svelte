@@ -47,7 +47,7 @@
         height: 200px;
 
         background: url("/main.svg") center / 117% no-repeat;
-        border-radius: 30%;
+        border-radius: 35%;
 
         border: 3px solid rgba(255, 255, 255, 0.25);
 
